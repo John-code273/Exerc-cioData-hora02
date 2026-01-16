@@ -20,7 +20,7 @@ Conceitos usados
 - `plusHours()`
 - `plusDays()`
   
-## ▶️ Como executar
+## Como executar
 
 ```bash
 javac Main.java
